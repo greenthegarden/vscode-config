@@ -1,0 +1,12 @@
+{
+  {
+    "key": "shift+alt+right",
+    "command": "bracket-pair-colorizer-2.expandBracketSelection",
+    "when": "editorTextFocus"
+  },
+  {
+      "key": "shift+alt+left",
+      "command": "bracket-pair-colorizer-2.undoBracketSelection",
+      "when": "editorTextFocus"
+  }
+}
