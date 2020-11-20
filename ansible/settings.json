@@ -1,0 +1,7 @@
+{
+  "ansible.autocompletion": true,
+  "ansible.credentialsFile": "$HOME/.vscode/ansible-credentials.yml",
+  "files.associations": {
+    "*.yaml": "ansible"
+  },
+}
